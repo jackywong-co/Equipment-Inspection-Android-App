@@ -1,0 +1,2 @@
+rootProject.name = "Intelligent Equipment Inspection System"
+include ':app'

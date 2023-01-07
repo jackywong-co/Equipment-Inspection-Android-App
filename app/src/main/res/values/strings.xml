@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Intelligent Equipment Inspection System</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="type_your_username">Type your username</string>
+    <string name="password">Password</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="login">Login</string>
+    <string name="inspection">Inspection</string>
+    <string name="settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="normal">Normal</string>
+    <string name="defective">Defective</string>
+    <string name="follow_up_action">Follow Up Action</string>
+    <string name="server_url">Server URL</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="confirm">Confirm</string>
+    <string name="next">NEXT</string>
+    <string name="date">Date</string>
+    <string name="room_name_location">Room Name (Location):</string>
+    <string name="inspector">Inspector:</string>
+    <string name="equipment_items">Equipment Items</string>
+    <string name="signature">Signature:</string>
+    <string name="attach_to_email">attach to email</string>
+    <string name="sign_here">Sign Here</string>
+    <string name="clear">Clear</string>
+    <string name="send">SEND</string>
+    <string name="type_room_name_or_location">Type room name or location</string>
+    <string name="logout">Logout</string>
+    <string name="equipment">equipment</string>
+    <string name="subtitle">Subtitle</string>
+</resources>

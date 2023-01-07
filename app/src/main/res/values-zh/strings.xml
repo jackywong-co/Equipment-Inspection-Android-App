@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intelligent Equipment Inspection System</string>
+    <string name="hello_blank_fragment">你好空白片段</string>
+    <string name="username">用戶名</string>
+    <string name="type_your_username">輸入您的用戶名</string>
+    <string name="password">密碼</string>
+    <string name="type_your_password">輸入您的密碼</string>
+    <string name="login">登錄</string>
+    <string name="inspection">檢查</string>
+    <string name="settings">設置</string>
+    <string name="title">標題</string>
+    <string name="normal">普通的</string>
+    <string name="defective">有缺陷的</string>
+    <string name="follow_up_action">跟進行動</string>
+    <string name="server_url">服務器網址</string>
+    <string name="take_picture">拍照片</string>
+    <string name="confirm">確認</string>
+    <string name="next">下一個</string>
+    <string name="date">日期</string>
+    <string name="room_name_location">房間名稱（位置）：</string>
+    <string name="inspector">檢查員：</string>
+    <string name="equipment_items">設備項目</string>
+    <string name="signature">簽名：</string>
+    <string name="attach_to_email">附加到電子郵件</string>
+    <string name="sign_here">在這裡簽名</string>
+    <string name="clear">清除</string>
+    <string name="send">發送</string>
+    <string name="type_room_name_or_location">輸入房間名稱或位置</string>
+    <string name="logout">登出</string>
+    <string name="equipment">設備</string>
+    <string name="subtitle">字幕</string>
+</resources>
